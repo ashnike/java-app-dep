@@ -1,5 +1,5 @@
-# Prerequisites
-#
+# Springboot App deployment using AWS CI/CD on ELastic BeanStalk
+
 - JDK 11 
 - Maven 3 
 - MySQL 8
