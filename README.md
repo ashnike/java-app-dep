@@ -1,10 +1,12 @@
 # Springboot App deployment using AWS CI/CD on ELastic BeanStalk
-
+## Architecture Diagram
+![](https://github.com/ashnike/java-app-elastic_beanstalk/blob/main/elastic-bean.webp)
+### Prerequisites
 - JDK 11 
 - Maven 3 
 - MySQL 8
 
-# Technologies 
+## Technologies 
 - Spring MVC
 - Spring Security
 - Spring Data JPA
@@ -15,7 +17,8 @@
 - Memcached
 - Rabbitmq
 - ElasticSearch
-# Database
+
+## Database
 Here,we used Mysql DB 
 sql dump file:
 - /src/main/resources/db_backup.sql
